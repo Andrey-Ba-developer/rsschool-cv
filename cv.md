@@ -14,7 +14,7 @@ There is no relevant experience related to commercial experience in IT.
 
 HTML and CSS: confident knowledge of HTML and CSS.
 
-JavaScript: Knowledge of the basics of JavaScript, including DOM manipulation.
+JavaScript: Knowledge of the basics of JavaScript.
 
 Working with Git: Understanding basic Git commands such as commit, push, pull, merge and branch.
 
